@@ -12,6 +12,7 @@ import javafx.scene.control.cell.TextFieldTableCell;
 import javafx.util.converter.DoubleStringConverter;
 import javafx.util.converter.IntegerStringConverter;
 import javafx.util.converter.LongStringConverter;
+import model.Sneaker;
 
 import java.io.*;
 import java.net.URL;
