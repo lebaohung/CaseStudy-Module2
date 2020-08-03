@@ -8,7 +8,7 @@ users to manage their stores
 - Java - JavaFX
 
 ---
-# Developers
+# Developer
 - Lê Bảo Hưng
 
 ---
