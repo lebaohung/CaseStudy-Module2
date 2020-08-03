@@ -2,6 +2,7 @@
 
 Designing and implementing a desktop app which helps
 users to manage their stores
+
 ---
 # Tech Stack: 
 - Java - JavaFX
